@@ -1,5 +1,5 @@
 Future<void> main() async {
-  // akan mengeksekusi program berdasarkan waktu
+  // akan mengeksekusi program berdasarkan waktu program menjalankannya
   print(await printData());
   print('Data telah selesai diproses');
 }

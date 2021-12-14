@@ -3,7 +3,7 @@
     properties (instance variables) - done
     contructor - done
     methods (functions) - done
-    getters and setters - now
+    getters and setters - done
   }
 */
 

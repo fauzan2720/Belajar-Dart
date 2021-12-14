@@ -12,6 +12,6 @@ void main() {
   print(nilai2.toInt()); // merubah ke integer
   print(nilai2.ceil()); // membulatkan ke atas
   print(nilai2.floor()); // membulatkan ke bawah
-  print(nilai2.toStringAsFixed(3)); // menampilkan angka dibelakang koma
-  print(nilai2.toStringAsPrecision(3)); // menampilkan angka dibelakang koma
+  print(nilai2.toStringAsFixed(4)); // menampilkan 4 angka dibelakang koma
+  print(nilai2.toStringAsPrecision(2)); // menampilkan angka dari depan
 }
