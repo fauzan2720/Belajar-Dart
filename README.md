@@ -1,6 +1,6 @@
 ## Hello There
 
-Pernahkah kalian mendengar istilah dart? Yap, saat ini saya belajar Dart untuk pembuatan aplikasi menggunakan framwork Flutter. Silahkan pelajari lebih lanjut [Dart](https://dart.dev/)
+Pernahkah kalian mendengar istilah dart? Yap, saat ini saya belajar Dart untuk pembuatan aplikasi menggunakan framework Flutter. Silahkan pelajari lebih lanjut [Dart](https://dart.dev/)
 
 ## Installation
 
